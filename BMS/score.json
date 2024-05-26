@@ -1,6 +1,52 @@
 [
+ 
+  {
+    "title": "チョウの標本 [Dreampainter]",
+    "level": "-2",
+    "eval": 0,
+    "artist": "Process 2.3.1.",
+    "url": "http://web.archive.org/web/20030609160042/http://www3.ocn.ne.jp/~yosu/tyou.rar",
+    "url_diff": "https://pan.baidu.com/s/14hZgQGFrZGxAfKvROxilFA",
+    "name_diff": "Baidu (kadb)",
+    "comment": "old chart",
+    "note": 1999,
+    "total": 300,
+    "judge": 3,
+    "md5": "4cdd5e4ed9095a859299b91c8a0a5e8e"
+  },
+  {
+    "title": "赫華之瑰 Vivid Rose [SP INSANE]",
+    "level": "-2",
+    "eval": 0,
+    "artist": "Koto Spirit",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=504&event=142",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=504&event=142",
+    "name_diff": "Bundled Chart",
+    "comment": "BOF:NT",
+    "note": 1255,
+    "total": 300,
+    "judge": 3,
+    "md5": "d487f9d89b50a73fab62a3292e41cab3"
+  },
 
 
+
+
+
+  {
+    "title": "爆音峠岬 [音爆]",
+    "level": "4",
+    "eval": 0,
+    "artist": "ユナイテッド・メルトダウン・オ嬢 (†Sennzai†ひめりんご†) kanone,Kaoru/Brilliance,hi-low,出前,黒鉛",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133",
+    "url_diff": "tbd",
+    "name_diff": "TBD",
+    "comment": "\"Big Han Cup\" submission",
+    "note": 2572,
+    "total": 640,
+    "judge": 3,
+    "md5": "14ab2fbeb88991d9ada5d918aec6f3c8"
+  },
 
   {
     "title": "Regain [///]",
@@ -17,14 +63,79 @@
     "md5": "c7bfe0504b2e103f156a1d6e4c113efb"
   },
 
+  {
+    "title": "イナリッチ [POOR]",
+    "level": "6",
+    "eval": 0,
+    "artist": "LisicA movie : 自動車原付 / illust : Orphee",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=141&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1306",
+    "name_diff": "Stella Uploader",
+    "comment": "st6 dy1 / Jacks+α",
+    "note": 3363,
+    "total": 636,
+    "judge": 3,
+    "md5": "23c01dd80a6220d250371992a1cf80cd"
+  },
 
+  {
+    "title": "村のTemptation [SP INSANE]",
+    "level": "7",
+    "eval": 0,
+    "artist": "WhiteXoon BG by WhiteXoon",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=137",
+    "url_diff": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=323&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "dy2 / Gachi burst",
+    "note": 3345,
+    "total": 666,
+    "judge": 3,
+    "md5": "c4bbe785e7a888c9d562896b813318d3"
+  },
+  {
+    "title": "キユビック [Cube]",
+    "level": "7",
+    "eval": 0,
+    "artist": "LisicA movie : ルゼ(LuzeriA) / illust : Orphee",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=143&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1307",
+    "name_diff": "Stella Uploader",
+    "comment": "dy2 / Jacks+α",
+    "note": 3300,
+    "total": 575,
+    "judge": 3,
+    "md5": "259a6c8d2b078fa36010ae1bd31a219a"
+  },
 
-
-
-
-
-
-
+  {
+    "title": "蟷ｸ遖上→蟒ｺ蜑 [Internal Reconstruction]",
+    "level": "8",
+    "eval": 0,
+    "artist": "ルゼ mov:乙青商会",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=144&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1342",
+    "name_diff": "Stella Uploader",
+    "comment": "dy3 / Chordstream+α",
+    "note": 3642,
+    "total": 666,
+    "judge": 3,
+    "md5": "e3db9cc392595ce136b4ce73fde65011"
+  },
+  
+  {
+    "title": "fragmentation",
+    "level": "9",
+    "eval": 0,
+    "artist": "Black hood",
+    "url": "https://www.luzeria.net/?p=387",
+    "url_diff": "https://stellabms.xyz/upload/979",
+    "name_diff": "Stella Uploader",
+    "comment": "dy4 / Delay",
+    "note": 3080,
+    "total": 700,
+    "judge": 3,
+    "md5": "e7228f14710be4ce97b158eeb7d7c2fc"
+  },
   {
     "title": "Ms. Steam [T]",
     "level": "9",
@@ -40,6 +151,34 @@
     "md5": "34019dad5bc2edbf7013f7f733cfabba"
   },
   {
+    "title": "Παρασιτικο [Napaoitiko]",
+    "level": "9",
+    "eval": 0,
+    "artist": "Nirotiy mov knife & prodigal",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=127",
+    "url_diff": "https://stellabms.xyz/upload/990",
+    "name_diff": "Stella Uploader",
+    "comment": "dy4 / Delay burst",
+    "note": 2929,
+    "total": 666,
+    "judge": 3,
+    "md5": "d33eeb8f66e4c7212d1534fb98ae1f3c"
+  },
+  {
+    "title": "愛歌「ネグラドルナ」 [EMOTIONAL EXCEPTION]",
+    "level": "9",
+    "eval": 0,
+    "artist": "ルゼ mov:KeiuO illust:うまるつふり",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1299",
+    "name_diff": "Stella Uploader",
+    "comment": "st9",
+    "note": 3666,
+    "total": 888,
+    "judge": 3,
+    "md5": "d0d976b650b4b0586cbb2b2d38dbb922"
+  },
+  {
     "title": "陽気山脈 [T]",
     "level": "9",
     "eval": 0,
@@ -53,20 +192,7 @@
     "judge": 3,
     "md5": "333e4aa752e5d2ec1a53e90331c70b13"
   },
-  {
-    "title": "fragmentation",
-    "level": "9",
-    "eval": 0,
-    "artist": "Black hood",
-    "url": "https://www.luzeria.net/?p=387",
-    "url_diff": "https://stellabms.xyz/upload/979",
-    "name_diff": "Stella Uploader",
-    "comment": "dy4 / Delay",
-    "note": 3080,
-    "total": 700,
-    "judge": 3,
-    "md5": "e7228f14710be4ce97b158eeb7d7c2fc"
-  },
+  
 
 
 
@@ -78,13 +204,26 @@
     "url": "https://venue.bmssearch.net/bmskanji2/25",
     "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06289",
     "name_diff": "gnqg Uploader",
-    "comment": "under pseudonym, \"黒黒\" becomes \"崟崟\" in my uBMPlay",
+    "comment": "dy5 / under pseudonym, \"黒黒\" becomes \"崟崟\" in my uBMPlay",
     "note": 2995,
     "total": 555,
     "judge": 3,
     "md5": "f52169456a1eaf2d335421c81cd1992f"
   },
-
+  {
+    "title": "決死のレイブ ～ RAVE W!TH ME (BMS ED!T) [SP RAVE EACH OTHER]",
+    "level": "10",
+    "eval": 0,
+    "artist": "DJ NORMAL1ZER BG by R. A. L.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=140",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=261&event=140",
+    "name_diff": "Bundled Chart",
+    "comment": "dy5 / Jacks",
+    "note": 3900,
+    "total": 800,
+    "judge": 3,
+    "md5": "24e43e414ae88f0b5ccbea4f7d334a9a"
+  },
 
 
 
@@ -105,7 +244,20 @@
     "judge": 3,
     "md5": "4febfa60867caf7d42bb8e504f22ef3e"
   },
-
+  {
+    "title": "愛歌「ネグラドルナ」 [EMOTIONAL EXPLOSION]",
+    "level": "13",
+    "eval": 0,
+    "artist": "ルゼ mov:KeiuO illust:うまるつふり",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=147&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1424",
+    "name_diff": "Stella Uploader",
+    "comment": "dy8",
+    "note": 4444,
+    "total": 1048,
+    "judge": 3,
+    "md5": "1519743ee82f2f879071a83dee270691"
+  },
 
 
   {
@@ -116,9 +268,9 @@
     "url": "https://venue.bmssearch.net/bmstukuru2024/9",
     "url_diff": "https://stellabms.xyz/upload/3803",
     "name_diff": "Stella Uploader",
-    "comment": "April fool special ^^",
+    "comment": "April fool special (^^)",
     "note": 5359,
-    "total": 1000.0,
+    "total": 1000,
     "judge": 3,
     "md5": "30ade17aa113ad9082a12847117312f1"
   },
@@ -132,7 +284,7 @@
     "name_diff": "gnqg Uploader",
     "comment": "under pseudonym",
     "note": 5165,
-    "total": 999.0,
+    "total": 999,
     "judge": 3,
     "md5": "926bee1e3a8cde3aafde2045114b6909"
   },
