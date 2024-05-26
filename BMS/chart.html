@@ -12,6 +12,9 @@
 <body class="diff" style=""><div style="text-align: center;"><div style="display: inline-block; position: relative; z-index: 9999;"><div id="asumi-frame-435-1792" style="height: 280px;">
 
 <p style="color:#ffffaa">List of tyrcs Charts<br>
+TC-3 = ★1~★9<br>
+TC-2 = ★10~★15<br>
+TC-1 = ★16~★18<br>
 TC0 = st0<br>
 ...<br>
 TC11 = st11<br>
@@ -48,7 +51,7 @@ function makeBMSTable(info, mark) {
         if (x != info[i].level) {
             // 前の区切りに譜面数、平均密度を追加
           	if (obj_sep != null) {
-                obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + "Charts)</b></td>");
+                obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + " Charts)</b></td>");
             }
             obj_sep = $("<tr class='tr_separate' id='" + mark + info[i].level + "'></tr>");
             obj_sep.appendTo(obj);
@@ -115,7 +118,7 @@ function makeBMSTable(info, mark) {
     }
     // 最後の区切り処理
     if (obj_sep != null) {
-        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + "Charts)</b></td>");
+        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + " Charts)</b></td>");
     }
 }
 </script>
