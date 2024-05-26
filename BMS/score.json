@@ -6,10 +6,12 @@
     "artist": "SP-# remixed by LeaF",
     "url": "https://venue.bmssearch.net/bmstukuru2024/9",
     "url_diff": "https://stellabms.xyz/upload/3803",
-    "comment":"April fool special ^^",
-    "total":1000.0,
-    "judge":3,
-    "md5":"30ade17aa113ad9082a12847117312f1"
+    "name_diff": "Stella Uploader",
+    "comment": "April fool special ^^",
+    "note": 5359,
+    "total": 1000.0,
+    "judge": 3,
+    "md5": "30ade17aa113ad9082a12847117312f1"
   },
   {
     "title": "米 (>十<)",
@@ -18,9 +20,53 @@
     "artist": "8月",
     "url": "https://venue.bmssearch.net/bmskanji2/4",
     "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06291",
-    "comment":"under pseudonym",
-    "total":999.0,
-    "judge":3,
-    "md5":"926bee1e3a8cde3aafde2045114b6909"
+    "name_diff": "Stella Uploader",
+    "comment": "under pseudonym",
+    "note": 5165,
+    "total": 999.0,
+    "judge": 3,
+    "md5": "926bee1e3a8cde3aafde2045114b6909"
+  },
+  {
+    "title": "Ms. Steam [T]",
+    "level": "9",
+    "eval": 0,
+    "artist": "MoVIIkA Movie: Nao_AnD",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/15",
+    "name_diff": "BCEL",
+    "comment": "st9 Jacks / BMS chart Editors’ League Submission",
+    "note": 3908,
+    "total": 678.0,
+    "judge": 3,
+    "md5": "34019dad5bc2edbf7013f7f733cfabba"
+  },
+  {
+    "title": "陽気山脈 [T]",
+    "level": "9",
+    "eval": 0,
+    "artist": "かたぎり BGA: 2nd_identity",
+    "url": "https://venue.bmssearch.net/genreshuffle4/4",
+    "url_diff": "https://stellabms.xyz/upload/4002",
+    "name_diff": "Stella Uploader",
+    "comment": "Tricky jacks",
+    "note": 3945,
+    "total": 777,
+    "judge": 3,
+    "md5": "333e4aa752e5d2ec1a53e90331c70b13"
+  },
+  {
+    "title": "DAYBREAK ！？",
+    "level": "13",
+    "eval": 0,
+    "artist": "Lime / Kankitsu",
+    "url": "https://venue.bmssearch.net/genreshuffle4/80",
+    "url_diff": "https://stellabms.xyz/upload/3953",
+    "name_diff": "Stella Uploader",
+    "comment": "塞爆",
+    "note": 4730,
+    "total": 888,
+    "judge": 3,
+    "md5": "4febfa60867caf7d42bb8e504f22ef3e"
   }
 ]
