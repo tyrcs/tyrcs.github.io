@@ -1,4 +1,113 @@
 [
+
+// TC5
+
+  {
+    "title": "Regain [///]",
+    "level": "5",
+    "eval": 0,
+    "artist": "ProjectG",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1335",
+    "name_diff": "Stella Uploader",
+    "comment": "st5 / Delay burst",
+    "note": 3016,
+    "total": 700,
+    "judge": 3,
+    "md5": "c7bfe0504b2e103f156a1d6e4c113efb"
+  },
+
+// TC6
+
+// TC7
+
+// TC8
+
+// TC9
+
+  {
+    "title": "Ms. Steam [T]",
+    "level": "9",
+    "eval": 0,
+    "artist": "MoVIIkA Movie: Nao_AnD",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
+    "url_diff": "https://venue.bmssearch.net/bcel_pre/15",
+    "name_diff": "BCEL",
+    "comment": "st9 / Jacks / BMS chart Editors’ League Submission",
+    "note": 3908,
+    "total": 678.0,
+    "judge": 3,
+    "md5": "34019dad5bc2edbf7013f7f733cfabba"
+  },
+  {
+    "title": "陽気山脈 [T]",
+    "level": "9",
+    "eval": 0,
+    "artist": "かたぎり BGA: 2nd_identity",
+    "url": "https://venue.bmssearch.net/genreshuffle4/4",
+    "url_diff": "https://stellabms.xyz/upload/4002",
+    "name_diff": "Stella Uploader",
+    "comment": "Tricky jacks",
+    "note": 3945,
+    "total": 777,
+    "judge": 3,
+    "md5": "333e4aa752e5d2ec1a53e90331c70b13"
+  },
+  {
+    "title": "fragmentation",
+    "level": "9",
+    "eval": 0,
+    "artist": "Black hood",
+    "url": "https://www.luzeria.net/?p=387",
+    "url_diff": "https://stellabms.xyz/upload/979",
+    "name_diff": "Stella Uploader",
+    "comment": "dy4 / Delay",
+    "note": 3080,
+    "total": 700,
+    "judge": 3,
+    "md5": "e7228f14710be4ce97b158eeb7d7c2fc"
+  },
+
+// TC10
+
+  {
+    "title": "黒黒 [C ball]",
+    "level": "10",
+    "eval": 0,
+    "artist": "MITCH DOWNVELL",
+    "url": "https://venue.bmssearch.net/bmskanji2/25",
+    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06289",
+    "name_diff": "gnqg Uploader",
+    "comment": "under pseudonym, \"黒黒\" becomes \"崟崟\" in my uBMPlay",
+    "note": 2995,
+    "total": 555,
+    "judge": 3,
+    "md5": "f52169456a1eaf2d335421c81cd1992f"
+  },
+
+// TC11
+
+// TC12
+
+// TC13
+
+  {
+    "title": "DAYBREAK ！？",
+    "level": "13",
+    "eval": 0,
+    "artist": "Lime / Kankitsu",
+    "url": "https://venue.bmssearch.net/genreshuffle4/80",
+    "url_diff": "https://stellabms.xyz/upload/3953",
+    "name_diff": "Stella Uploader",
+    "comment": "dy8 / 塞爆",
+    "note": 4730,
+    "total": 888,
+    "judge": 3,
+    "md5": "4febfa60867caf7d42bb8e504f22ef3e"
+  },
+
+// TC14
+
   {
     "title": "neo tinnitus [/////////////////////////////////////////",
     "level": "14",
@@ -20,53 +129,29 @@
     "artist": "8月",
     "url": "https://venue.bmssearch.net/bmskanji2/4",
     "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06291",
-    "name_diff": "Stella Uploader",
+    "name_diff": "gnqg Uploader",
     "comment": "under pseudonym",
     "note": 5165,
     "total": 999.0,
     "judge": 3,
     "md5": "926bee1e3a8cde3aafde2045114b6909"
   },
+
+// TC15
+  
   {
-    "title": "Ms. Steam [T]",
-    "level": "9",
+    "title": "\"Alice in Wonderland\" : crazy apple could not live in real life ！？",
+    "level": "15",
     "eval": 0,
-    "artist": "MoVIIkA Movie: Nao_AnD",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
-    "url_diff": "https://venue.bmssearch.net/bcel_pre/15",
-    "name_diff": "BCEL",
-    "comment": "st9 Jacks / BMS chart Editors’ League Submission",
-    "note": 3908,
-    "total": 678.0,
-    "judge": 3,
-    "md5": "34019dad5bc2edbf7013f7f733cfabba"
-  },
-  {
-    "title": "陽気山脈 [T]",
-    "level": "9",
-    "eval": 0,
-    "artist": "かたぎり BGA: 2nd_identity",
-    "url": "https://venue.bmssearch.net/genreshuffle4/4",
-    "url_diff": "https://stellabms.xyz/upload/4002",
-    "name_diff": "Stella Uploader",
-    "comment": "Tricky jacks",
-    "note": 3945,
-    "total": 777,
-    "judge": 3,
-    "md5": "333e4aa752e5d2ec1a53e90331c70b13"
-  },
-  {
-    "title": "DAYBREAK ！？",
-    "level": "13",
-    "eval": 0,
-    "artist": "Lime / Kankitsu",
-    "url": "https://venue.bmssearch.net/genreshuffle4/80",
-    "url_diff": "https://stellabms.xyz/upload/3953",
+    "artist": "kyou1110 vs Takuya Namba",
+    "url": "https://drive.google.com/file/d/1BofSxBzgvDhTS-GWtcgGL4ycIKOd-QLH/view?usp=drive_link",
+    "url_diff": "https://stellabms.xyz/upload/3993",
     "name_diff": "Stella Uploader",
     "comment": "塞爆",
-    "note": 4730,
-    "total": 888,
+    "note": 4590,
+    "total": 1001,
     "judge": 3,
-    "md5": "4febfa60867caf7d42bb8e504f22ef3e"
+    "md5": "a18fd487d9502332543af04700e9fdef"
   }
+
 ]
