@@ -1,5 +1,33 @@
 [
- 
+  
+  {
+    "title": "Everness [SP INSANE]",
+    "level": "-2",
+    "eval": 0,
+    "artist": "Cryo-Myosotis",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=142",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=142",
+    "name_diff": "Bundled Chart",
+    "comment": "BOF:NT",
+    "note": 3083,
+    "total": 666,
+    "judge": 3,
+    "md5": "c9ef12be4b9571276496ecfc140effca"
+  },
+  {
+    "title": "Shackled Lips [SP INSANE]",
+    "level": "-2",
+    "eval": 0,
+    "artist": "Cryo-Myosotis BG by Cryo-Myosotis",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=137",
+    "url_diff": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=78&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "乱打乱打",
+    "note": 2938,
+    "total": 596,
+    "judge": 3,
+    "md5": "cc759c309f99e1b9593af90d1878fcb5"
+  },
   {
     "title": "チョウの標本 [Dreampainter]",
     "level": "-2",
@@ -29,10 +57,66 @@
     "md5": "d487f9d89b50a73fab62a3292e41cab3"
   },
 
+  {
+    "title": "Friendship Trading (BMS Version) [SP MAIMAI]",
+    "level": "-1",
+    "eval": 0,
+    "artist": "WhiteXoon BG by mitaiiii",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=140",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=30&event=140",
+    "name_diff": "Bundled Chart",
+    "comment": "All-rounder",
+    "note": 2612,
+    "total": 512,
+    "judge": 3,
+    "md5": "9007df7dc353bbc6751c32d6e19f6fa6"
+  },
+  {
+    "title": "marchendreams.（BMS edit） [T-]",
+    "level": "-1",
+    "eval": 0,
+    "artist": "NASA / ZUN",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=118",
+    "url_diff": "tbd",
+    "name_diff": "TBD",
+    "comment": "\"Big Han Cup\" submission",
+    "note": 2599,
+    "total": 571,
+    "judge": 3,
+    "md5": "8ef55059df303807894c962a6443c438"
+  },
 
 
+  {
+    "title": "GOODDRILL [dududu]",
+    "level": "1",
+    "eval": 0,
+    "artist": "EBIMAYO",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=274&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1322",
+    "name_diff": "Stella Uploader",
+    "comment": "乱打+α",
+    "note": 3344,
+    "total": 555,
+    "judge": 3,
+    "md5": "7df090ca4aa227f24385c9f9fc6b6b73"
+  },
 
 
+  {
+    "title": "Shining Above The Gemini [SP ENJOY]",
+    "level": "4",
+    "eval": 0,
+    "artist": "TSound",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=142",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=27&event=142",
+    "name_diff": "Bundled Chart",
+    "comment": "BOF:NT / Low total gachioshi",
+    "note": 2727,
+    "total": 388,
+    "judge": 3,
+    "md5": "6c08fc8dd8e5e806c348d368e5e788bb"
+  },
   {
     "title": "爆音峠岬 [音爆]",
     "level": "4",
@@ -62,7 +146,63 @@
     "judge": 3,
     "md5": "c7bfe0504b2e103f156a1d6e4c113efb"
   },
+  {
+    "title": "To Dance on the Garage [SP INSANE]",
+    "level": "5",
+    "eval": 0,
+    "artist": "Star* BG by Star*",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=137",
+    "url_diff": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "dy0 / Bursty pattern",
+    "note": 3304,
+    "total": 660,
+    "judge": 3,
+    "md5": "d56a59c80cdc817e93e24567060530f2"
+  },
 
+  {
+    "title": "Moondread [T]",
+    "level": "6",
+    "eval": 0,
+    "artist": "Kry.exe BGA:KURORAK",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=124&event=140",
+    "url_diff": "https://stellabms.xyz/upload/2245",
+    "name_diff": "Stella Uploader",
+    "comment": "st6 / delay -> stream",
+    "note": 2722,
+    "total": 480,
+    "judge": 3,
+    "md5": "db56731c65cfe9e60e77b9da1aa8f1a1"
+  },
+  {
+    "title": "Stomachache $%^@&*(#!!",
+    "level": "6",
+    "eval": 0,
+    "artist": "NceS",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=409&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1384",
+    "name_diff": "Stella Uploader",
+    "comment": "dy1 / Delay burst",
+    "note": 2950,
+    "total": 600,
+    "judge": 3,
+    "md5": "3a3fc6d399c85550b4e36c7432e61e94"
+  },
+  {
+    "title": "Verwirrung [\\]|[\\]||[/]|[/]",
+    "level": "6",
+    "eval": 0,
+    "artist": "Nirotiy BGA by R. A. L.",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=325&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1362",
+    "name_diff": "Stella Uploader",
+    "comment": "dy1 / Gachioshi",
+    "note": 3850,
+    "total": 765,
+    "judge": 3,
+    "md5": "45f40c41e9ab1e7899c9a0d580700fca"
+  },
   {
     "title": "イナリッチ [POOR]",
     "level": "6",
@@ -106,7 +246,21 @@
     "judge": 3,
     "md5": "259a6c8d2b078fa36010ae1bd31a219a"
   },
-
+  
+  {
+    "title": "glacier's poetry [sink into the deepest dream]",
+    "level": "8",
+    "eval": 0,
+    "artist": "VeetaCrush & ProjectG bga: linglvz",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=425&event=137",
+    "url_diff": "https://stellabms.xyz/upload/1397",
+    "name_diff": "Stella Uploader",
+    "comment": "st8 dy3 / Jacks delay",
+    "note": 3010,
+    "total": 510,
+    "judge": 3,
+    "md5": "35bcb3034ca1d7db9bafaf3ca355afe1"
+  },
   {
     "title": "蟷ｸ遖上→蟒ｺ蜑 [Internal Reconstruction]",
     "level": "8",
@@ -193,9 +347,34 @@
     "md5": "333e4aa752e5d2ec1a53e90331c70b13"
   },
   
-
-
-
+  {
+    "title": "Escape [///]",
+    "level": "10",
+    "eval": 0,
+    "artist": "Star* vs SamaR3N BG by Star* & AZVW_2",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=133",
+    "url_diff": "https://stellabms.xyz/upload/1069",
+    "name_diff": "Stella Uploader",
+    "comment": "dy5 / Delay burst",
+    "note": 3500,
+    "total": 900,
+    "judge": 3,
+    "md5": "f43be9ce2260326754040f713b31a0af"
+  },
+  {
+    "title": "God of Mischief: Loki [SP FORBIDDEN GRIMOIRE]",
+    "level": "10",
+    "eval": 0,
+    "artist": "Kilo. eriomirG (Axya) feat. Axya BG by TARA #376 & CATea",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=391&event=140",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=391&event=140",
+    "name_diff": "Bundled Chart",
+    "comment": "Jacks / rasukoroshi",
+    "note": 2475,
+    "total": 666,
+    "judge": 3,
+    "md5": "df3ec8aa4100d02acc4276a8413f18f2"
+  },
   {
     "title": "黒黒 [C ball]",
     "level": "10",
@@ -224,8 +403,49 @@
     "judge": 3,
     "md5": "24e43e414ae88f0b5ccbea4f7d334a9a"
   },
-
-
+  
+  {
+    "title": "Gar♪goyle [Offensive]",
+    "level": "11",
+    "eval": 0,
+    "artist": "Micelle",
+    "url": "https://venue.bmssearch.net/bmstukuru2022/4",
+    "url_diff": "https://stellabms.xyz/upload/1740",
+    "name_diff": "Stella Uploader",
+    "comment": "dy6 / 写爆了",
+    "note": 2600,
+    "total": 520,
+    "judge": 3,
+    "md5": "7a74e514ea277cd9f5d5554fd669215f"
+  },
+  {
+    "title": "To Dance on the Garage [SP INSANE+]",
+    "level": "11",
+    "eval": 0,
+    "artist": "Star* BG by Star*",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=137",
+    "url_diff": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "Bursty pattern",
+    "note": 4092,
+    "total": 850,
+    "judge": 3,
+    "md5": "ffa90a40c71af4d69fd15ac314356241"
+  },
+  {
+    "title": "Oπ [2B]",
+    "level": "11",
+    "eval": 0,
+    "artist": "Shourk* BG by Shourk*",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=137",
+    "url_diff": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=449&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "rasukoroshi",
+    "note": 2820,
+    "total": 678,
+    "judge": 3,
+    "md5": "b9d73abd2548b191e31ecff2b937f579"
+  },
 
 
 
@@ -304,6 +524,49 @@
     "total": 1001,
     "judge": 3,
     "md5": "a18fd487d9502332543af04700e9fdef"
-  }
+  },
+  
+  {
+    "title": "ENTANGLEMENT [T]",
+    "level": "?",
+    "eval": 0,
+    "artist": "ABE3",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=9&event=88",
+    "url_diff": "https://pan.baidu.com/s/14hZgQGFrZGxAfKvROxilFA",
+    "name_diff": "Baidu (kadb)",
+    "comment": "Delay w very high total / old chart",
+    "note": 3649,
+    "total": 1049,
+    "judge": 3,
+    "md5": "d6033e71f7d5e9d4f5a80ac3eaf2e930"
+  },
+  {
+    "title": "ReviXy [T]",
+    "level": "?",
+    "eval": 0,
+    "artist": "ikaruga_nex",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=179&event=123",
+    "url_diff": "https://pan.baidu.com/s/14hZgQGFrZGxAfKvROxilFA",
+    "name_diff": "Baidu (kadb)",
+    "comment": "Scratches / old chart",
+    "note": 2699,
+    "total": 700,
+    "judge": 3,
+    "md5": "e7e0ce692205ef9d69448207675d3156"
+  },
+  {
+    "title": "Trahison [XX]",
+    "level": "?",
+    "eval": 0,
+    "artist": "be5moti / うまるつふり",
+    "url": "https://dropbox.bms.ms/u/64455831/Trahison_ogg.rar",
+    "url_diff": "https://pan.baidu.com/s/14hZgQGFrZGxAfKvROxilFA",
+    "name_diff": "Baidu (kadb)",
+    "comment": "XX / old chart",
+    "note": 3333,
+    "total": 999,
+    "judge": 3,
+    "md5": "35aacdd291573b7106f3ad84397a40d8"
+  },
 
 ]
