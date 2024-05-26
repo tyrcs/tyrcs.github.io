@@ -12,6 +12,9 @@
 
 <p style="color:#000000">1</p>
 <!--　　　　　ここから難易度表本体　　　　　-->
+<div class="tableframe">
+
+</div>
 <script language="javascript" type="text/javascript">
 $(document).ready(function(){
 	$.getJSON($("meta[name=bmstable]").attr("content"), function(header){
@@ -100,7 +103,7 @@ function makeBMSTable(info, mark) {
     }
     // 最後の区切り処理
     if (obj_sep != null) {
-        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + "譜面)</b></td>");
+        obj_sep.html("<td colspan='6' align='center'>" + "<b>" + mark + x + " (" + count + "Charts)</b></td>");
     }
 }
 </div></div></div>
