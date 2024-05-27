@@ -29,6 +29,9 @@ TC15 = dy10<br>
 <br>
 any charts with difficulty of ★0 or lower are excluded<br>
 charts of non-keysounded song are excluded<br></p>
+<p style="color:#aaffff">
+Contact: <a href="https://space.bilibili.com/320597436">Bilibili</a> <a href="https://x.com/tyrcs2">Twitter</a><br>
+</p>
 <p style="color:#ffaaff">
 (20240527 Update) almost every chart (~90%) of mine should be in now<br>
 <br>
@@ -76,9 +79,9 @@ function makeBMSTable(info, mark) {
         str = $("<tr class='tr_update'></tr>");
         }
         // レベル表記
-        $("<td width='5%'>" + mark + x + "</td>").appendTo(str);
+        $("<td width='5%' align='left'>" + mark + x + "</td>").appendTo(str);
         // タイトル
-        $("<td width='20%'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
+        $("<td width='20%' align='left'>" + "<a href='http://www.dream-pro.info/~lavalse/LR2IR/search.cgi?mode=ranking&bmsmd5=" + info[i].md5 + "' target='_blank'>" + info[i].title + "</a></td>").appendTo(str);
         // アーティスト
         var astr = "";
         if(info[i].url != null) {
@@ -103,7 +106,7 @@ function makeBMSTable(info, mark) {
         		astr += "<br />(" + info[i].name_pack + ")";
         	}
         }
-        $("<td width='20%'>" + astr + "</td>").appendTo(str);
+        $("<td width='20%' align='left'>" + astr + "</td>").appendTo(str);
         // 差分
         if(info[i].url_diff != null) {
         	if(info[i].name_diff != null) {
@@ -119,7 +122,7 @@ function makeBMSTable(info, mark) {
         	}
         }
         // コメント
-        $("<td width='15%'>" + info[i].comment + "</td>").appendTo(str);
+        $("<td width='15%' align='left'>" + info[i].comment + "</td>").appendTo(str);
         // ScoreView
         $("<td width='10%'><a href='https://bms-score-viewer.pages.dev/view?md5=" + info[i].md5 + "'>" + "🎶" + "</a></td>").appendTo(str);
         str.appendTo(obj);
