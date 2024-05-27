@@ -1,12 +1,38 @@
 [
   
   {
+    "title": "S1UPER BE4M-ロングタイトル黄・瓜・香・腸-[SP HYPER]",
+    "level": "-3",
+    "eval": 0,
+    "artist": "X_やび / Y_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 1413,
+    "total": 333,
+    "judge": 3,
+    "md5": "cfa3c55ed97f59368e79c8143b5598bd"
+  },
+  {
+    "title": "西山電子インジェクション女～st0ry of sb～[SP HYPER]",
+    "level": "-3",
+    "eval": 0,
+    "artist": "X_やび / Y_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 1143,
+    "total": 300,
+    "judge": 3,
+    "md5": "0bc0de090a90092e1988dfc8762a8205"
+  },
+
+  {
     "title": "Booouncing!![BADBOUNCE]",
     "level": "-2",
     "eval": 0,
     "artist": "翡乃イスカ vs. Iriss",
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=579&event=110",
-    "url_diff": "tbd",
     "name_diff": "TBD",
     "comment": "\"Big Han Cup\" submission",
     "note": 2512,
@@ -81,6 +107,19 @@
     "judge": 3,
     "md5": "d487f9d89b50a73fab62a3292e41cab3"
   },
+  {
+    "title": "西山電子インジェクション女～st0ry of sb～[SP ANOTHER]",
+    "level": "-2",
+    "eval": 0,
+    "artist": "X_やび / Y_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=114&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 1450,
+    "total": 360,
+    "judge": 3,
+    "md5": "f617c92890bab8a1b9e0c5c7f81ea5aa"
+  },
   
   {
     "title": "Al-raune [Reverence]",
@@ -102,7 +141,6 @@
     "eval": 0,
     "artist": "かたぎり BGA: 2nd_identity (mst×かたぎり)",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=273&event=133",
-    "url_diff": "tbd",
     "name_diff": "TBD",
     "comment": "\"Big Han Cup\" submission",
     "note": 2500,
@@ -116,7 +154,6 @@
     "eval": 0,
     "artist": "kozato",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=91&event=127",
-    "url_diff": "tbd",
     "name_diff": "TBD",
     "comment": "\"Big Han Cup\" submission",
     "note": 2054,
@@ -152,6 +189,20 @@
     "md5": "16a7c7bad1dacb7fed698639c3574ec6"
   },
   {
+    "title": "inertia [BT]",
+    "level": "-1",
+    "eval": 0,
+    "artist": "Micelle",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=130&event=123",
+    "url_diff": "https://drive.google.com/file/d/1vlneyVppCAeNU1uyrOTCbjOTjuwn2XGq/view?usp=drive_link",
+    "name_diff": "Google drive",
+    "comment": "Collab with BKwind",
+    "note": 1966,
+    "total": 499,
+    "judge": 3,
+    "md5": "a36ec1afddf9952a541ce2c63433ce5a"
+  },
+  {
     "title": "Lem0n_5odα_!ce_7ea [SP INSANE]",
     "level": "-1",
     "eval": 0,
@@ -165,18 +216,45 @@
     "md5": "82355b409aa3f84486d15844e8abbd52"
   },
   {
+    "title": "Melotte 333 [BT]",
+    "level": "-1",
+    "eval": 0,
+    "artist": "sun3 / BGA:Johnny",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https://drive.google.com/file/d/1LCQym_-C9CHoSomLB1HB4T6XXK19EpJF/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "Collab with BKwind",
+    "note": 2400,
+    "total": 550,
+    "judge": 3,
+    "md5": "9cd81107f24f49c4e5173ce204025e18"
+  },
+  {
     "title": "marchendreams.（BMS edit） [T-]",
     "level": "-1",
     "eval": 0,
     "artist": "NASA / ZUN",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=118",
-    "url_diff": "tbd",
-    "name_diff": "TBD",
+    "url_diff": "https://drive.google.com/file/d/1orfT4qbvHPF7Z4uHKEb3fILRij_6iJb6/view?usp=sharing",
+    "name_diff": "Google drive",
     "comment": "\"Big Han Cup\" submission",
     "note": 2599,
     "total": 571,
     "judge": 3,
     "md5": "8ef55059df303807894c962a6443c438"
+  },
+  {
+    "title": "S1UPER BE4M-ロングタイトル黄・瓜・香・腸-[SP ANOTHER]",
+    "level": "-1",
+    "eval": 0,
+    "artist": "X_やび / Y_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 1599,
+    "total": 369,
+    "judge": 3,
+    "md5": "136e828cdd063a71a2fa0697b6f121dc"
   },
   {
     "title": "WHIRLWIND [Wind Rush]",
@@ -221,6 +299,21 @@
     "md5": "691f810a29cdf49140401adea06a1180"
   },
   
+  
+  {
+    "title": "ATHAZA [rebirth]",
+    "level": "1",
+    "eval": 0,
+    "artist": "LeaF Movie:To7",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=524&event=110",
+    "url_diff": "https://drive.google.com/file/d/1u4DlQ0pBjBX46H71Kuqc1MmBkfjcPnaV/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "old chart, high total",
+    "note": 3304,
+    "total": 999,
+    "judge": 3,
+    "md5": "fd500958cebad7cd0bf76a167bc6b8ef"
+  },
   {
     "title": "Disco☆Girl -踊る少女-",
     "level": "1",
@@ -250,6 +343,20 @@
     "md5": "7df090ca4aa227f24385c9f9fc6b6b73"
   },
   {
+    "title": "marchendreams.（BMS edit） [T]",
+    "level": "1",
+    "eval": 0,
+    "artist": "NASA / ZUN",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=50&event=118",
+    "url_diff": "https://drive.google.com/file/d/1orfT4qbvHPF7Z4uHKEb3fILRij_6iJb6/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "",
+    "note": 2818,
+    "total": 640,
+    "judge": 3,
+    "md5": "49ba3a0a4131bf34e4cc24b9006c2487"
+  },
+  {
     "title": "Schwerkraft [colo]",
     "level": "1",
     "eval": 0,
@@ -264,6 +371,20 @@
     "md5": "c860e0945c84ead43e3c348b5a7438ce"
   },
 
+  {
+    "title": "Deublithick(reincarnation7)",
+    "level": "2",
+    "eval": 0,
+    "artist": "激辛マニア",
+    "url": "http://uploader.bms.ms/data/bof2011okfquh83/HK/HK_Deublithick.rar",
+    "url_diff": "https://drive.google.com/file/d/17-vqGmievy6BOR46d_Q-4cDNw_V-aJgQ/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "old chart, high total",
+    "note": 1968,
+    "total": 666,
+    "judge": 3,
+    "md5": "4c68b3e841957e3f06de49b63ea0f6b6"
+  },
   {
     "title": "Disco☆Girl -踊る少女-",
     "level": "2",
@@ -378,6 +499,20 @@
     "md5": "df530f8e7b7540811ae6d9d0fca857d3"
   },
   {
+    "title": "EVERLASTING HAPPiNESS↑ [SHAPiNESS]",
+    "level": "3",
+    "eval": 0,
+    "artist": "psi",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=3&event=109",
+    "url_diff": "https://drive.google.com/file/d/1F0zgY3DOuUAtAQ0ilz2ZlkPEm7w1j0wC/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "old chart, weird",
+    "note": 2929,
+    "total": 488,
+    "judge": 3,
+    "md5": "e12dadc259030c8c8552eb0f47613473"
+  },
+  {
     "title": "IoAV\"inf\"A Θ hgVoA [Eerie gazer]",
     "level": "3",
     "eval": 0,
@@ -449,6 +584,48 @@
     "md5": "d5673694df8920fd8c98ad47dc2be85f"
   },
   {
+    "title": "Cipher : /2&//<|0 [/>/w/</]",
+    "level": "4",
+    "eval": 0,
+    "artist": "Tetrajectory feat. Ctymax",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=297&event=123",
+    "url_diff": "https://darksabun.github.io/event/irbattle/sabun/C06_Cipher_tyrcs.zip",
+    "name_diff": "LR2IR Battle",
+    "comment": "st4 / Weird delay w high total",
+    "note": 2283,
+    "total": 640,
+    "judge": 3,
+    "md5": "7809898376079d1d00af68426d050646"
+  },
+  {
+    "title": "FAKE LIFE [Nihilism]",
+    "level": "4",
+    "eval": 0,
+    "artist": "ProjectG",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=406&event=133",
+    "url_diff": "https://stellabms.xyz/upload/1239",
+    "name_diff": "Stella Uploader",
+    "comment": "st4 / \"Dump\"",
+    "note": 3353,
+    "total": 653,
+    "judge": 3,
+    "md5": "68f709ad576392f57fcbee4b0df88fe3"
+  },
+  {
+    "title": "Pictured as Perfect [T]",
+    "level": "4",
+    "eval": 0,
+    "artist": "Frums",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=336&event=123",
+    "url_diff": "https://drive.google.com/file/d/1TJdNORvWW9_1OmW25Sy2izZ-p62LtVqr/view?usp=drive_link",
+    "name_diff": "Google drive",
+    "comment": "old chart",
+    "note": 2400,
+    "total": 600,
+    "judge": 3,
+    "md5": "31d3dc8fc307b2374e7dd8ad1691a033"
+  },
+  {
     "title": "Shining Above The Gemini [SP ENJOY]",
     "level": "4",
     "eval": 0,
@@ -481,7 +658,6 @@
     "eval": 0,
     "artist": "ユナイテッド・メルトダウン・オ嬢 (†Sennzai†ひめりんご†) kanone,Kaoru/Brilliance,hi-low,出前,黒鉛",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=133",
-    "url_diff": "tbd",
     "name_diff": "TBD",
     "comment": "\"Big Han Cup\" submission",
     "note": 2572,
@@ -629,6 +805,19 @@
     "total": 480,
     "judge": 3,
     "md5": "db56731c65cfe9e60e77b9da1aa8f1a1"
+  },
+  {
+    "title": "S1UPER BE4M-ロングタイトル黄・瓜・香・腸-[SP CUCUMBER]",
+    "level": "6",
+    "eval": 0,
+    "artist": "X_やび / Y_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=107&event=137",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 2583,
+    "total": 523,
+    "judge": 3,
+    "md5": "79331d9a8a072edb0366d82a4f3e1acf"
   },
   {
     "title": "Stomachache $%^@&*(#!!",
@@ -1626,6 +1815,19 @@
     "total": 999,
     "judge": 3,
     "md5": "35aacdd291573b7106f3ad84397a40d8"
+  },
+  {
+    "title": "変化車 (^^)",
+    "level": "?",
+    "eval": 0,
+    "artist": "X_やび / Y_やび mov:Z_やび",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=22&event=143",
+    "name_diff": "Bundled Chart",
+    "comment": "",
+    "note": 1234,
+    "total": 301,
+    "judge": 3,
+    "md5": "0c1983f86ea400ba323ced5f1cdace41"
   }
 
 ]
