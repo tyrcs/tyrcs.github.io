@@ -29,6 +29,7 @@ TC15 = dy10<br>
 <br>
 any charts with difficulty of ★0 or lower are excluded<br>
 charts of non-keysounded song are excluded<br>
+CYAN = New chart /// YELLOW = Recently updated info<br>
 <br>
 the Score View feature is provided by bms-score-viewer.pages.dev (by Kurokotei)</p>
 <p style="color:#aaffff">
@@ -126,7 +127,7 @@ function makeBMSTable(info, mark) {
         // コメント
         $("<td width='15%' align='left'>" + info[i].comment + "</td>").appendTo(str);
         // ScoreView
-        $("<td width='10%'><a href='https://bms-score-viewer.pages.dev/view?md5=" + info[i].md5 + "'>" + "🎶" + "</a></td>").appendTo(str);
+        $("<td width='5%'><a href='https://bms-score-viewer.pages.dev/view?md5=" + info[i].md5 + "'>" + "🎶" + "</a></td>").appendTo(str);
         str.appendTo(obj);
         count++;
     }
