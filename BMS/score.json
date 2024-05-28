@@ -216,20 +216,6 @@
     "md5": "82355b409aa3f84486d15844e8abbd52"
   },
   {
-    "title": "Melotte 333 [BT]",
-    "level": "-1",
-    "eval": 0,
-    "artist": "sun3 / BGA:Johnny",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=140",
-    "url_diff": "https://drive.google.com/file/d/1LCQym_-C9CHoSomLB1HB4T6XXK19EpJF/view?usp=sharing",
-    "name_diff": "Google drive",
-    "comment": "Collab with BKwind",
-    "note": 2400,
-    "total": 550,
-    "judge": 3,
-    "md5": "9cd81107f24f49c4e5173ce204025e18"
-  },
-  {
     "title": "marchendreams.（BMS edit） [T-]",
     "level": "-1",
     "eval": 0,
@@ -315,20 +301,6 @@
   
   
   {
-    "title": "ATHAZA [rebirth]",
-    "level": "1",
-    "eval": 0,
-    "artist": "LeaF Movie:To7",
-    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=524&event=110",
-    "url_diff": "https://drive.google.com/file/d/1u4DlQ0pBjBX46H71Kuqc1MmBkfjcPnaV/view?usp=sharing",
-    "name_diff": "Google drive",
-    "comment": "old chart, high total",
-    "note": 3304,
-    "total": 999,
-    "judge": 3,
-    "md5": "fd500958cebad7cd0bf76a167bc6b8ef"
-  },
-  {
     "title": "Disco☆Girl -踊る少女-",
     "level": "1",
     "eval": 0,
@@ -371,6 +343,22 @@
     "md5": "49ba3a0a4131bf34e4cc24b9006c2487"
   },
   {
+    "title": "Melotte 333 [BT]",
+    "level": "1",
+    "eval": 0,
+    "artist": "sun3 / BGA:Johnny",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=86&event=140",
+    "url_diff": "https://drive.google.com/file/d/1LCQym_-C9CHoSomLB1HB4T6XXK19EpJF/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "Collab with BKwind",
+    "note": 2400,
+    "total": 550,
+    "judge": 3,
+    "md5": "9cd81107f24f49c4e5173ce204025e18"
+    
+    "state": 2
+  },
+  {
     "title": "Schwerkraft [colo]",
     "level": "1",
     "eval": 0,
@@ -385,6 +373,22 @@
     "md5": "c860e0945c84ead43e3c348b5a7438ce"
   },
 
+  {
+    "title": "ATHAZA [rebirth]",
+    "level": "2",
+    "eval": 0,
+    "artist": "LeaF Movie:To7",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=524&event=110",
+    "url_diff": "https://drive.google.com/file/d/1u4DlQ0pBjBX46H71Kuqc1MmBkfjcPnaV/view?usp=sharing",
+    "name_diff": "Google drive",
+    "comment": "old chart, high total",
+    "note": 3304,
+    "total": 999,
+    "judge": 3,
+    "md5": "fd500958cebad7cd0bf76a167bc6b8ef"
+
+    "state": 2
+  },
   {
     "title": "Deublithick(reincarnation7)",
     "level": "2",
