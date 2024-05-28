@@ -36,15 +36,18 @@ background-color:#aaaaaa;
 }
 
 .tr_normal {
+font-size:12px;
 background-color:#eeeeee;
 }
 
 .tr_new {
-background-color:#ff8888;
+font-size:12px;
+background-color:#aaffff;
 }
 
 .tr_update {
-background-color:#8888ff;
+font-size:12px;
+background-color:#ffffaa;
 }
 
 .tableflame table {
