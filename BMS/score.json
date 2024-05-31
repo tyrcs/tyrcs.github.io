@@ -1685,7 +1685,7 @@
     "url": "https://venue.bmssearch.net/genreshuffle4/80",
     "url_diff": "https://stellabms.xyz/upload/3953",
     "name_diff": "Stella Uploader",
-    "comment": "dy8 / 塞爆",
+    "comment": "dy8 / Gachioshi",
     "note": 4730,
     "total": 888,
     "judge": 3,
@@ -1777,6 +1777,22 @@
     "total": 825,
     "judge": 3,
     "md5": "faae367cea4fe327255a71f2652a564c"
+  },
+  {
+    "title": "樟葉 ！？",
+    "level": "15",
+    "eval": 0,
+    "artist": "-45",
+    "url": "http://malie.noor.jp/archive/kusuha.rar",
+    "url_diff": "https://stellabms.xyz/upload/4034",
+    "name_diff": "Stella Uploader",
+    "comment": "312bpm 乱打",
+    "note": 6120,
+    "total": 1020,
+    "judge": 3,
+    "md5": "4a22c31b051f2409a462224cc54d4ec1",
+
+    "state": 1
   },
   
   {
