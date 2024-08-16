@@ -14,6 +14,22 @@
     "md5": "cfa3c55ed97f59368e79c8143b5598bd"
   },
   {
+    "title": "スペクトラム [Pr]",
+    "level": "-3",
+    "eval": 0,
+    "artist": "エルリ鳥",
+    "url": "https://kaikou.nothing.sh/spectrum.zip",
+    "url_diff": "https://venue.bmssearch.net/ssss_2nd/10",
+    "name_diff": "SSSS",
+    "comment": "ude / Sabun-Shuffle Summer Season Round 2 Submission",
+    "note": 2165,
+    "total": 420,
+    "judge": 3,
+    "md5": "b9b6141ec2791b31f1e6512546e62605",
+
+    "state": 1
+  },
+  {
     "title": "西山電子インジェクション女～st0ry of sb～[SP HYPER]",
     "level": "-3",
     "eval": 0,
@@ -355,8 +371,6 @@
     "total": 550,
     "judge": 3,
     "md5": "9cd81107f24f49c4e5173ce204025e18",
-    
-    "state": 2
   },
   {
     "title": "Schwerkraft [colo]",
@@ -372,6 +386,22 @@
     "judge": 3,
     "md5": "c860e0945c84ead43e3c348b5a7438ce"
   },
+  {
+    "title": "WILDANCE <o/",
+    "level": "1",
+    "eval": 0,
+    "artist": "KAH",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=24&event=142",
+    "url_diff": "https://venue.bmssearch.net/ssss_free/13",
+    "name_diff": "SSSS",
+    "comment": "Gachioshi / Sabun-Shuffle Summer Season Submission",
+    "note": 2468,
+    "total": 420,
+    "judge": 3,
+    "md5": "c6f02d014b7e027eaef42d3e9929759b",
+
+    "state": 1
+  },
 
   {
     "title": "ATHAZA [rebirth]",
@@ -386,8 +416,6 @@
     "total": 999,
     "judge": 3,
     "md5": "fd500958cebad7cd0bf76a167bc6b8ef",
-
-    "state": 2
   },
   {
     "title": "Deublithick(reincarnation7)",
@@ -580,11 +608,27 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=133&event=137",
     "url_diff": "https://venue.bmssearch.net/bcel_pre/7",
     "name_diff": "BCEL",
-    "comment": "st3 / Burst + stream / BMS chart Editors’ League Submission",
+    "comment": "Burst + stream / BMS chart Editors’ League Submission",
     "note": 3649,
     "total": 770,
     "judge": 3,
     "md5": "7fe01a23d2acd2c5236a00e33141cfa6"
+  },
+  {
+    "title": "スペクトラム [Prism]",
+    "level": "3",
+    "eval": 0,
+    "artist": "エルリ鳥",
+    "url": "https://kaikou.nothing.sh/spectrum.zip",
+    "url_diff": "https://venue.bmssearch.net/ssss_2nd/10",
+    "name_diff": "SSSS",
+    "comment": "Gachioshi, low total",
+    "note": 3200,
+    "total": 485,
+    "judge": 3,
+    "md5": "b5a9a31ea1854dda8c42970480bbe16a",
+
+    "state": 1
   },
 
   {
@@ -1818,8 +1862,6 @@
     "total": 1020,
     "judge": 3,
     "md5": "306db0f2157d19ba49ecc55008298edd",
-
-    "state": 1
   },
   
   {
@@ -1877,6 +1919,22 @@
     "total": 700,
     "judge": 3,
     "md5": "e7e0ce692205ef9d69448207675d3156"
+  },
+  {
+    "title": "SENS REMIX II-2nd Anniversary- (overly joyful)",
+    "level": "?",
+    "eval": 0,
+    "artist": "SENS",
+    "url": "https://web.archive.org/web/20041129052843/http://www.sango.sakura.ne.jp/~sens/bms/djsens_remix2.zip",
+    "url_diff": "https://venue.bmssearch.net/ssss_1st/10",
+    "name_diff": "SSSS",
+    "comment": "NON STOP MEGA MIX !!!!!!!!!!!!!!!!!!!!!!!!",
+    "note": 9250,
+    "total": 1145.14,
+    "judge": 2,
+    "md5": "fd5b1ae5fe06f2bdaabee00e4f9541f1",
+
+    "state": 1
   },
   {
     "title": "SOUNDWiTCH [Voice Catcher]",
