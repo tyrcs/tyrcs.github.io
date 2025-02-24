@@ -25,9 +25,7 @@
     "note": 2165,
     "total": 420,
     "judge": 3,
-    "md5": "b9b6141ec2791b31f1e6512546e62605",
-
-    "state": 1
+    "md5": "b9b6141ec2791b31f1e6512546e62605"
   },
   {
     "title": "西山電子インジェクション女～st0ry of sb～[SP HYPER]",
@@ -398,11 +396,24 @@
     "note": 2468,
     "total": 420,
     "judge": 3,
-    "md5": "c6f02d014b7e027eaef42d3e9929759b",
+    "md5": "c6f02d014b7e027eaef42d3e9929759b"
+  },
+  
+  {
+    "title": "ADONIS [SP INSANE]",
+    "level": "2",
+    "eval": 0,
+    "artist": "Seagull BG by Aya",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=309&event=146",
+    "name_diff": "Bundled chart",
+    "comment": "Soflan / under pseudonym",
+    "note": 3311,
+    "total": 530,
+    "judge": 3,
+    "md5": "e0499afa5d894010c4043df583a7784b",
 
     "state": 1
   },
-
   {
     "title": "ATHAZA [rebirth]",
     "level": "2",
@@ -626,9 +637,7 @@
     "note": 3200,
     "total": 485,
     "judge": 3,
-    "md5": "b5a9a31ea1854dda8c42970480bbe16a",
-
-    "state": 1
+    "md5": "b5a9a31ea1854dda8c42970480bbe16a"
   },
 
   {
@@ -1048,6 +1057,22 @@
     "total": 600,
     "judge": 3,
     "md5": "bd42752b04f3a53d24fae87fe6d1c069"
+  },
+  {
+    "title": "Signal [Forlornness]",
+    "level": "7",
+    "eval": 0,
+    "artist": "Ludicin BGA:ReviXy, Illust:KM",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=298&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4611",
+    "name_diff": "Stella Uploader",
+    "comment": "st7 / Delay burst",
+    "note": 2500,
+    "total": 444,
+    "judge": 3,
+    "md5": "514e944bfd86b3dd6d380b88ba0cf9cb",
+
+    "state": 1
   },
   {
     "title": "黯 [Fear]",
@@ -1526,6 +1551,22 @@
     "md5": "3a6fcdfd5639b97d23684f84c9e696da"
   },
   {
+    "title": "あかず [Assimilation]",
+    "level": "10",
+    "eval": 0,
+    "artist": "かたぎり ft. 可不 BGA: 2nd_identity",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=469&event=146",
+    "url_diff": "https://stellabms.xyz/upload/4709",
+    "name_diff": "Stella Uploader",
+    "comment": "MicroJackBurst stream",
+    "note": 4242,
+    "total": 999,
+    "judge": 3,
+    "md5": "be033d48a08be18942b7bc43612a3849",
+
+    "state": 1
+  },
+  {
     "title": "八大地獄邪魂転生狂葬散火歌 [///]",
     "level": "10",
     "eval": 0,
@@ -1718,6 +1759,21 @@
     "total": 818,
     "judge": 3,
     "md5": "a02a2a233716791cc689c9a80673cf2a"
+  },
+  {
+    "title": "Eternity [SP STELLA]",
+    "level": "12",
+    "eval": 0,
+    "artist": "Star* BG by mitaiiii",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=427&event=146",
+    "name_diff": "Bundled chart",
+    "comment": "Gachioshi",
+    "note": 4114,
+    "total": 777,
+    "judge": 3,
+    "md5": "5159d71c5adf03868e6ca47b2ab0b036",
+
+    "state": 1
   },
   {
     "title": "MA.DA.KA.NA. MAKAIWARS(仮)",
@@ -1932,9 +1988,7 @@
     "note": 9250,
     "total": 1145.14,
     "judge": 2,
-    "md5": "fd5b1ae5fe06f2bdaabee00e4f9541f1",
-
-    "state": 1
+    "md5": "fd5b1ae5fe06f2bdaabee00e4f9541f1"
   },
   {
     "title": "SOUNDWiTCH [Voice Catcher]",
@@ -1975,6 +2029,21 @@
     "total": 301,
     "judge": 3,
     "md5": "0c1983f86ea400ba323ced5f1cdace41"
+  },
+  {
+    "title": "アマアマ饕餮ボンボン YumYum",
+    "level": "?",
+    "eval": 0,
+    "artist": "Kolaa & 熊子 (movie: Kolaa & 毛腿猪兔子)",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=432&event=146",
+    "name_diff": "Bundled Chart",
+    "comment": "ln21?",
+    "note": 1600,
+    "total": 333,
+    "judge": 3,
+    "md5": "732b8e8fb894575488fce40bc64fa920",
+
+    "state": 1
   }
 
 ]
