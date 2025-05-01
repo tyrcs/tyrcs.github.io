@@ -410,9 +410,7 @@
     "note": 3311,
     "total": 530,
     "judge": 3,
-    "md5": "e0499afa5d894010c4043df583a7784b",
-
-    "state": 1
+    "md5": "e0499afa5d894010c4043df583a7784b"
   },
   {
     "title": "ATHAZA [rebirth]",
@@ -604,7 +602,7 @@
     "artist": "TOMA Remixed by FALL",
     "url": "http://www.likeside.net/2009/05/05/lolipicottemicknpop-animariot/",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05304.zip",
-    "name_diff": "gnqg Uploader",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "Highspeed light stream",
     "note": 2951,
     "total": 777,
@@ -1036,8 +1034,8 @@
     "eval": 0,
     "artist": "縦連田 勝己",
     "url": "https://venue.bmssearch.net/bmsshuin3/29",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05301",
-    "name_diff": "gnqg Uploader",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05301.zip",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "dy2 / Delay burst",
     "note": 3325,
     "total": 777,
@@ -1070,9 +1068,7 @@
     "note": 2500,
     "total": 444,
     "judge": 3,
-    "md5": "514e944bfd86b3dd6d380b88ba0cf9cb",
-
-    "state": 1
+    "md5": "514e944bfd86b3dd6d380b88ba0cf9cb"
   },
   {
     "title": "黯 [Fear]",
@@ -1145,6 +1141,22 @@
     "md5": "07ecf7ada172fd367f396b59556b8764"
   },
   {
+    "title": "F13 [Fool's errand]",
+    "level": "8",
+    "eval": 0,
+    "artist": "Judah BGA:Lucifer",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=52&event=96",
+    "url_diff": "https://stellabms.xyz/upload/5248",
+    "name_diff": "Stella Uploader",
+    "comment": "various delay pattern",
+    "note": 3060,
+    "total": 487.014126,
+    "judge": 3,
+    "md5": "0c6f7d2b145fac062f1021c3abb4b8c3",
+
+    "state": 1
+  },
+  {
     "title": "G-Bass / mild_hihat.wav REAL LIFE",
     "level": "8",
     "eval": 0,
@@ -1178,8 +1190,8 @@
     "eval": 0,
     "artist": "eicateve / Mentalstock",
     "url": "http://sunaneko.iptime.org/BMS_Library/Gun%20to%20Childhead%20%28by%20eicateve%ef%bc%8fMentalstock%29.rar",
-    "url_diff": "http://gnqg.rosx.net/upload/upload.cgi?get=05303",
-    "name_diff": "gnqg Uploader",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05303.zip",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "unmei...",
     "note": 2612,
     "total": 622,
@@ -1543,7 +1555,7 @@
     "artist": "Enritsu movie:横尾太にゃ",
     "url": "https://drive.google.com/file/d/1UFOmtnybPYPq3oAMIqm-Jww_-AqDsOJU/view?usp=drive_link",
     "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/05302.zip",
-    "name_diff": "gnqg Uploader",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "Delay burst",
     "note": 3172,
     "total": 555,
@@ -1562,9 +1574,7 @@
     "note": 4242,
     "total": 999,
     "judge": 3,
-    "md5": "be033d48a08be18942b7bc43612a3849",
-
-    "state": 1
+    "md5": "be033d48a08be18942b7bc43612a3849"
   },
   {
     "title": "八大地獄邪魂転生狂葬散火歌 [///]",
@@ -1586,8 +1596,8 @@
     "eval": 0,
     "artist": "MITCH DOWNVELL",
     "url": "https://venue.bmssearch.net/bmskanji2/25",
-    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06289",
-    "name_diff": "gnqg Uploader",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/06289.zip",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "dy5 / under pseudonym, \"黒黒\" becomes \"崟崟\" in my uBMPlay",
     "note": 2995,
     "total": 555,
@@ -1719,6 +1729,22 @@
     "md5": "891542eb56c4692d5f78a28708540128"
   },
   {
+    "title": "WAKEFUUUUULNESS",
+    "level": "11",
+    "eval": 0,
+    "artist": "ルゼ",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=64",
+    "url_diff": "https://stellabms.xyz/upload/5498",
+    "name_diff": "Stella Uploader",
+    "comment": "yeeeeeeeeeah",
+    "note": 4321,
+    "total": 1000.3,
+    "judge": 3,
+    "md5": "e1c70577cc8ef4fc3876146dce34e0ba",
+
+    "state": 1
+  },
+  {
     "title": "命日 [///]",
     "level": "11",
     "eval": 0,
@@ -1771,9 +1797,7 @@
     "note": 4114,
     "total": 777,
     "judge": 3,
-    "md5": "5159d71c5adf03868e6ca47b2ab0b036",
-
-    "state": 1
+    "md5": "5159d71c5adf03868e6ca47b2ab0b036"
   },
   {
     "title": "MA.DA.KA.NA. MAKAIWARS(仮)",
@@ -1788,6 +1812,22 @@
     "total": 1000,
     "judge": 3,
     "md5": "091efa600172e22c589e6446a5f77e44"
+  },
+  {
+    "title": "煉獄-Purgatorium- [/////////////////////////////////////////",
+    "level": "12",
+    "eval": 0,
+    "artist": "incinerate",
+    "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=172&event=74",
+    "url_diff": "https://stellabms.xyz/upload/5331",
+    "name_diff": "Stella Uploader",
+    "comment": "April fool special ~2025 Edition~",
+    "note": 4044,
+    "total": 1234,
+    "judge": 3,
+    "md5": "76dffbe742c78aba208da6984a0d84c2",
+
+    "state": 1
   },
   
   {
@@ -1868,8 +1908,8 @@
     "eval": 0,
     "artist": "8月",
     "url": "https://venue.bmssearch.net/bmskanji2/4",
-    "url_diff": "https://gnqg.rosx.net/upload/upload.cgi?get=06291",
-    "name_diff": "gnqg Uploader",
+    "url_diff": "https://bms.hexlataia.xyz/mirror/gnqg-upload/06291.zip",
+    "name_diff": "gnqg Archive (by hex)",
     "comment": "under pseudonym",
     "note": 5165,
     "total": 999,
@@ -2041,9 +2081,7 @@
     "note": 1600,
     "total": 333,
     "judge": 3,
-    "md5": "732b8e8fb894575488fce40bc64fa920",
-
-    "state": 1
+    "md5": "732b8e8fb894575488fce40bc64fa920"
   }
 
 ]
